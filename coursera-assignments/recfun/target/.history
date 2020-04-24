@@ -1,0 +1,22 @@
+test
+"(if (zero? x) max (/ 1 x))".toList
+println("derp")
+:q
+"(if (zero? x) max (/ 1 x))".toList
+:q
+"(if (zero? x) max (/ 1 x))".toList
+List(1,3,2)
+val List(1,3,2)
+import recfun
+import
+:
+:q
+console
+test
+console
+test
+console
+test
+console
+test
+submit jacheung1991@gmail.com AH3R9YvtHaEHqfoJ
